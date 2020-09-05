@@ -3,9 +3,8 @@
 I'm a Vue.js fan, but I also dabble with React or Svelte sometimes. I love building open-source libraries in JavaScript and TypeScript, making tools for Blockchain projects and support the growing crypto community.
 
 - 🔭 I’m currently working on [Zilliqa's Savant IDE](https://ide.zilliqa.com)
-- 🌱 I’m currently learning [Scilla Lang](#https://scilla-lang.org)
+- 🌱 I’m currently learning [Scilla Lang](https://scilla-lang.org)
 - 💬 Ask me about dApps and Blockchain intergrations on Web for [Zilliqa](https://zilliqa.com), Cosmos, Iris, Terra
-- 📫 How to reach me: micleaovidiul@gmail.com
 
 <!--
 **micovi/micovi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
