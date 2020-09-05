@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋, I'm Ovii.
+
+I'm a Vue.js fan, but I also dabble with React or Svelte sometimes. I love building open-source libraries in JavaScript and TypeScript, making tools for Blockchain projects and support the growing crypto community.
+
+- 🔭 I’m currently working on (#https://ide.zilliqa.com)[Zilliqa's Savant IDE]
+- 🌱 I’m currently learning (#https://scilla-lang.org)[Scilla]
+- 💬 Ask me about dApps and Blockchain intergrations on Web for (https://zilliqa.com)[Zilliqa], Cosmos, Iris, Terra
+- 📫 How to reach me: micleaovidiul@gmail.com
 
 <!--
 **micovi/micovi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
