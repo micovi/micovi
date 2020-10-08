@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ovii.
 
-I'm a Vue.js fan, but I also dabble with React or Svelte sometimes. I love building open-source libraries in JavaScript and TypeScript, making tools for Blockchain projects and support the growing crypto community.
+I'm a Vue.js fan, but I also dabble with React or Svelte sometimes. I love building open-source libraries in JavaScript and TypeScript, making tools for Blockchain projects and support the growing crypto community. I am also a graphql enthusiast.
 
 - 🔭 I’m currently working on [Zilliqa's Savant IDE](https://ide.zilliqa.com)
 - 🌱 I’m currently learning [Scilla Lang](https://scilla-lang.org)
