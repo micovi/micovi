@@ -2,9 +2,13 @@
 
 I'm a Vue.js fan, but I also dabble with React or Svelte sometimes. I love building open-source libraries in JavaScript and TypeScript, making tools for Blockchain projects and support the growing crypto community. I am also a graphql enthusiast.
 
-- 🔭 I’m currently working on [Zilliqa's Savant IDE](https://ide.zilliqa.com)
+- 🔭 I’m currently working on enhancing [Zilliqa's Savant IDE](https://ide.zilliqa.com), [Ceres](https://github.com/Zilliqa/ceres) and [Zilliqa Testing Library](https://github.com/Zilliqa/zilliqa-testing-library)
 - 🌱 I’m currently learning [Scilla Lang](https://scilla-lang.org)
 - 💬 Ask me about dApps and Blockchain intergrations on Web for [Zilliqa](https://zilliqa.com), Cosmos, Iris, Terra
+- 🤔 I’m looking for help with Learning D3.js
+
+Also worked on:
+- [_ZILCLI](https://scilla-lang.org) - Command Line Interface for Zilliqa Blockchain.
 
 <!--
 **micovi/micovi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
